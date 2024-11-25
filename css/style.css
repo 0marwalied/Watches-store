@@ -989,11 +989,14 @@ body {
   list-style: none;
 }
 
+.page-end-section ul li i{
+  line-height: 55px;
+}
+
 .page-end-section ul li{
   height: 55px;
   width: 55px;
   border-radius: 50%;
-  line-height: 55px;
   font-size: 30px;
   margin-bottom: 15px;
   display: inline-block;
